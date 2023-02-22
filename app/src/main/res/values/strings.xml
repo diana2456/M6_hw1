@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">M6_hw1</string>
+    <string name="send">send</string>
+    <string name="edit_text_cannot_be_emty">EditText cannot be empty</string>
+    <string name="enter_text">Enter text</string>
+</resources>
